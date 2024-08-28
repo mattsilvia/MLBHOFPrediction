@@ -1,2 +1,2 @@
-# MLBHOFPrediction
-I created a machine learning model to predict current Major League Baseball player's chance to make the Hall of Fame based on several batting statistics from there first five seasons. Aggregated average statistics were used for this project.
+# MLB Hall of Fame Prediction
+I created a machine learning model to predict current Major League Baseball player's chance to make the Hall of Fame based on several batting statistics from there first five seasons. Aggregated average batting statistics by season were used for this project and only focused on players who had seasons in which they were qualified batters (At least 3.1 plate appearances per game).
